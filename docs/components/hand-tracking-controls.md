@@ -1,4 +1,4 @@
----
+--- 
 title: hand-tracking-controls
 type: components
 layout: docs
